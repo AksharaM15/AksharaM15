@@ -20,5 +20,5 @@ learning how they work, and building things of my own.
 - 🕶️ Building quietly. Growing continuously.
 
 
-<text color="#eab308" weight="medium">Note:</text> This design uses a few external SVG/image services for the typing animation, stats and contribution animation. If one of them doesn't load, your profile text will still work.
+
  
